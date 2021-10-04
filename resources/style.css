@@ -31,3 +31,11 @@ body{
     color:aquamarine;
 }
 
+/* LINKS*/
+
+
+.footer--copyright{
+    font-size:13px;
+    color:grey;
+    text-align:right;
+}
